@@ -1,8 +1,8 @@
 /* css is better for style html is more for main? maintain similar style. keep consistency. */
-/*table tag makes style for everything in that tag. or th (table header) within table tag, tr, th. keep organized*/
+/* table tag makes style for everything in that tag. or th (table header) within table tag, tr, th. keep organized*/
 
 table { border: 1px solid purple;}
-  table tr th { backgroun-color: blue;
+  table tr th { background-color: blue;
   color: white;
   }
 table tr td { font-weight: bold; }
